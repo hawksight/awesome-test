@@ -1,9 +1,9 @@
 version: 1
-user: "davidcollom"
+user: "hawksifht"
 lists:
-  - slug: "finops-tools" # taken from /stars/<user>/lists/<slug>
-    title: "Awesome Kubernetes FinOps Tools"
-    tagline: "Tools & samples for cost-efficient/FinOps K8s."
+  - slug: "python" # taken from /stars/<user>/lists/<slug>
+    title: "Awesome Python Things"
+    tagline: "Make yourself an awesome pythonista"
     min_stars: 10
     stale_months: 90
     badges:
