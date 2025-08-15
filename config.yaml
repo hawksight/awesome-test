@@ -1,0 +1,10 @@
+version: 1
+user: "davidcollom"
+lists:
+  - slug: "finops-tools" # taken from /stars/<user>/lists/<slug>
+    title: "Awesome Kubernetes FinOps Tools"
+    tagline: "Tools & samples for cost-efficient/FinOps K8s."
+    min_stars: 10
+    stale_months: 90
+    badges:
+      - "https://img.shields.io/badge/awesome-yes-brightgreen"
